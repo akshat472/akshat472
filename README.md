@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akshat Saxena.
 - 👀 I’m interested in Development, Designing and problem solving.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Web Dev projects.
+- 🌱 I’m currently learning UI/UX.
 - 📫 You can mail me at akshatsaxena472@gmail.com
 
 <!---
