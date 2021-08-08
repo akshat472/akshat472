@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Web Dev projects.
 - 📫 You can mail me at akshatsaxena472@gmail.com
 
-<br>
+
 [![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat472)](https://github.com/akshat472/github-readme-stats)
-<br>
+
 <!---
 akshat472/akshat472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
